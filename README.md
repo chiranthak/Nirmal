@@ -1,0 +1,2 @@
+# Nirmal
+Gen AI Workshop
